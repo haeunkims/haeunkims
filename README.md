@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm HAEUN KIM <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
+<h2>Hi 👋, I'm HAEUN KIM </h2>
 <img align='right' src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="230">
 <p><em>Frontend Engineer at <a href="http://www.schoolcheck.net">Dream Guide Company</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
 </em></p>
@@ -14,7 +14,7 @@
 interface Haeun {
     name: "하은" | "Haeun" | "Seriene",
     code: ["Javscript"],
-    askMeAbout: ["tech", "web dev", "lifting💪"],
+    askMeAbout: ["tech", "web dev", "gym💪"],
     technologies: {
         frontEnd: {
             javascript: ["HTML", "CSS", "JS"],
