@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm HAEUN KIM </h2>
-<img align='right' src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="230"> -->
 <p><em>Frontend Engineer at <a href="http://www.schoolcheck.net">Dream Guide Company</a>
 </em></p>
 
